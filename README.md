@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
