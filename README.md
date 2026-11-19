@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -69,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Omkar-Labs/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
